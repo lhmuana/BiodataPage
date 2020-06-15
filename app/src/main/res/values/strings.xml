@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Page</string>
+    <string name="name_text">Hming chhutna</string>
+    <string name="yellow_star">YELLOW STAR</string>
+    <string name="bio">Now it’s your turn to complete this exercise.
+\n\nAdd a ScrollView with a TextView showing information about yourself to the layout.
+\n\nStyle the TextView with NameStyle, and add additional styling to separate the scrollable text from the edges of the screen.
+\n\nAdd some spacing between the lines using the lineSpacingMultiplier property to the TextView
+\n\nBelow is a skeleton code version for this challenge.
+\n\n\nThe important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
+\n
+\n\n\n\nThere is no solution code provided for this challenge,
+\n\n\nbut the skeleton code below gives you the expected view hierarchy to use.
+\n
+\n\n\nSKELETON code of view hierarchy:</string>
+    <string name="what_is_your_nickname">what is your nickname</string>
+    <string name="done">DONE</string>
+</resources>
